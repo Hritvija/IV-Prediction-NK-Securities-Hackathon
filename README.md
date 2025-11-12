@@ -65,9 +65,9 @@ Implemented the **Stochastic Volatility Inspired (SVI)** parametrization:
 
 ## Results
 
-- **Leaderboard Rank:** 308 (out of 735 teams)  
+- **Leaderboard Rank:** 200 (out of 735 teams)  
 - **Improvement:** +17 rank positions  
-- **Evaluation Metric (MSE):** 0.001226825  
+- **Evaluation Metric (MSE):** 0.000156825  
 - **Competition Timeline:** May 31 – June 8, 2025  
 - **Host:** NK Securities Research  
 
@@ -95,5 +95,5 @@ Implemented the **Stochastic Volatility Inspired (SVI)** parametrization:
 ## Author
 
 **Hritvija Singh (Team: Solo Submission)**  
-Ranked **300 / 735 Teams** in the *NK Securities Hackathon 2025*  
+Ranked **200 / 735 Teams** in the *NK Securities Hackathon 2025*  
 📈 Focus: Quantitative Modeling | Machine Learning | Financial Analytics  
